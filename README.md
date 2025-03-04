@@ -1,0 +1,2 @@
+- `npm i` to install all dependencies
+- `npm run dev` to run in localhost
